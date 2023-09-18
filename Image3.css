@@ -1,0 +1,44 @@
+
+
+
+a{
+color: yellow;
+}
+
+
+
+#p1{
+    color: blueviolet;
+}
+
+#u2{
+    color:yellow;
+}
+
+#u3{
+    background-color: yellow;
+    color: brown;
+}
+
+#u4{
+    color: red;
+}
+
+#li1{
+    font: bold;
+}
+#u5{
+    color: red;
+}
+.li2{
+    color: blue;
+}
+#u6{
+    color: red;
+}
+
+#ul1 {
+    list-style-type: none;
+  }
+
+
